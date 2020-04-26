@@ -1,6 +1,6 @@
 ﻿<?php
-$admin = 'id raqamiz';
-$token = 'token maydoni';
+$admin = '947893947';
+$token = '1256400374:AAHwawjlpkSENZl0VXsRvJyiFwymDvCJS3A';
 
 function bot($method,$datas=[]){
 global $token;
